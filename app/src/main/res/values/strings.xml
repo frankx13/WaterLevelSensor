@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaterLevelSensor</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+</resources>
